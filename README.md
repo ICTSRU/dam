@@ -1,4 +1,4 @@
-# SRU DAM — Digital Asset Management Interface · v1.3
+# SRU DAM — Digital Asset Management Interface · v1.5
 
 **منصة إدارة الأصول الرقمية** — Sulaiman Al Rajhi University · Corporate Communication Administration (owner) · Powered by ICTD
 
@@ -7,7 +7,7 @@ It runs on top of the existing **SRU DAM Control Sheet** and the n8n naming work
 
 | Item | Value |
 |---|---|
-| Version | 1.3 (shown in the page header chip and footer) |
+| Version | 1.5 (shown in the page header chip and footer) |
 | Front end | `index.html`: static, for GitHub Pages (ictsru.github.io) |
 | Backend | `Code.gs`: Google Apps Script Web App |
 | Data | Google Sheet **SRU DAM Control Sheet** (`1TFCzFOkDwaNguoXFQi0_u0_9hnYKX1VIdQjLOqnGi-o`) |
@@ -71,7 +71,7 @@ SRU-PH-2026-00065-Graduation-Ceremony-MASTER.jpg
 6. Deploy → New deployment → **Web app** → Execute as **Me**, access **Anyone** → copy the `/exec` URL.
 
 ### 5.2 Front end (GitHub Pages)
-1. Put this folder in the repo, for example `ITOC/DAM-v1.3/`.
+1. Put this folder in the repo, for example `ITOC/DAM-v1.5/`.
 2. `APP.API_URL` in `index.html` is already set to the production `/exec` URL. After a new Apps Script deployment, update it here.
 3. Logos are already embedded in `index.html`. The originals are in `assets/`: `sru-logo.png` (header right), `corp-comm-logo.png` (header left) and `ictd-logo.png` (footer, "Powered By").
 4. If `API_URL` is empty, the page runs in **demo mode** with sample records and a role switcher.

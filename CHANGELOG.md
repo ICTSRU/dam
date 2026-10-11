@@ -2,6 +2,16 @@
 
 Version numbering: one digit after the decimal point (1.9 → 2.0).
 
+## [1.5] — 2026-10-11
+### Changed
+- Footer text on the right now reads «جامعة سليمان الراجحي — الإدارة التنفيذية للاتصالات وتقنية المعلومات — منصة إدارة الأصول الرقمية — الإصدار 1.5».
+- Version chip updated to 1.5. `Code.gs` is unchanged.
+
+## [1.4] — 2026-10-11
+### Changed
+- Footer text on the right now reads «جامعة سليمان الراجحي — الإدارة التنفيذية للاتصالات وتقنية المعلومات».
+- Version chip and footer updated to 1.4. `Code.gs` is unchanged.
+
 ## [1.3] — 2026-10-11
 ### Changed
 - Platform name changed to «منصة إدارة الأصول الرقمية» in the top bar, the browser tab title and the login screen.
